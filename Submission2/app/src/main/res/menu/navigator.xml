@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_league"
+        android:icon="@drawable/baseline_sports_soccer_black_48dp"
+        android:title="@string/team" />
+    <item
+        android:id="@+id/navigation_match"
+        android:icon="@drawable/baseline_emoji_events_black_48dp"
+        android:title="@string/match" />
+</menu>

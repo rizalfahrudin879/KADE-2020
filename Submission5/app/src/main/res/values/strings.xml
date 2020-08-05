@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="name">Name</string>
+
+    <array name="title_tab">
+        <item>Previous</item>
+        <item>Next</item>
+    </array>
+
+    <string name="search">search</string>
+    <string name="team">TEAM</string>
+    <string name="date">date</string>
+    <string name="event_name">event name</string>
+    <string name="vs">:</string>
+    <string name="_0">0</string>
+    <string name="match">MATCH</string>
+    <string name="default_value">-</string>
+    <string name="line_value">:</string>
+    <string name="img">img</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="forward">Forward</string>
+    <string name="midfield">Midfield</string>
+    <string name="defense">Defense</string>
+    <string name="formation">Formation</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="detail_league">Detail League</string>
+    <string name="detail_match">Detail Match</string>
+    <string name="detail_team">Detail Team</string>
+    <string name="app_football">App Football</string>
+    <string name="favorite">favorite</string>
+    <string name="list_match_favorite">List Match Favorite</string>
+    <string name="standing">STANDING</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
